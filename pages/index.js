@@ -1,9 +1,8 @@
 export default function HomePage() {
   return (
     <div>
-      <h6> Hello World! </h6>
-      <p> Com esse curso, estarei evoluindo meu conhecimento para conquistar um emprego melhor, e poder dar pra você a vida que você merece </p>
-      <p> Para minha esposa, Vívian </p>
+      <h3> Hello World! </h3>
+      <h2> Com esse curso, estarei evoluindo meu conhecimento para conquistar um emprego melhor, e poder fornecer para você a vida que você merece. Para minha esposa, Vívian. </h2>
     </div>
   )
 }
